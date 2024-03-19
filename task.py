@@ -70,7 +70,6 @@ def find_path(values, start_coord, goal_coord):
     return path
 
 
-
 # Perform value iteration
 values = value_iteration(MAZE)
 
